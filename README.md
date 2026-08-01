@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jörg Müller-Barkei, M.A. | Systems Architecture, AI & Narrative Strategy
 
-<!--
-**jayambede/jayambede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich übersetze komplexe, abstrakte Ideen in tragfähige, skalierbare Strukturen – von KI-gestützten Wissensarchitekturen bis zu patentierten Industrie-Konzepten. Als Literaturwissenschaftler und ehemaliger Verleger verbinde ich geisteswissenschaftliche Analyseschärfe mit unternehmerischer Praxis.
 
-Here are some ideas to get you started:
+🌐 Projektentwicklung & Consulting: [theblueprint.biz](https://theblueprint.biz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+English Version:
+
+# Jörg Müller-Barkei, M.A. | Systems Architecture & Strategic Concepts
+
+I translate complex, abstract ideas into resilient, operational frameworks—bridging AI knowledge systems, industrial patents, and high-stakes media projects.
+
+🌐 Explore my work: [theblueprint.biz/en/](https://theblueprint.biz/en)
+
+
